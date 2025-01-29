@@ -1,3 +1,7 @@
+# Rust Chatbot
+
+I'm following along with [this](https://www.youtube.com/watch?v=vAjle3c9Xqc) tutorial. It's outdated, as mentioned in the comments by the author, and that's without mentioning that the whole LLM field has moved forward an epoch if you've blinked. Still, I figure it'll be good for trying to get more of a feel for Rust, and if I'm feeling particularly daring, maybe I'll even try to update some stuff on the fly.
+
 <picture>
     <source srcset="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_Solid_White.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
